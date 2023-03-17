@@ -1,0 +1,8 @@
+body{
+    
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 17%, rgba(29,48,253,1) 51%, rgba(69,252,247,1) 84%);
+}
+.card{
+    margin: 20% auto;
+} 
